@@ -1,0 +1,2 @@
+model_checkpoint_path: "garbage-sorter"
+all_model_checkpoint_paths: "garbage-sorter"
