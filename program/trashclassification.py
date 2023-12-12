@@ -127,7 +127,7 @@ root.resizable(width=False, height=False)
 canvas = Canvas(root,width=1280,height=720 )
 canvas.pack()
 
-bg = PhotoImage(file='other_images/bgimgv100.png')
+bg = PhotoImage(file='other_images/bgimg.png')
 
 
 frame = Frame(root, bg = 'black')
